@@ -1,4 +1,4 @@
-<h1  style={color:'green'} align="center">< Ales Mazur /></h1>
+<h1  style={{color:'green'}} align="center">< Ales Mazur /></h1>
 
 
 "export default function Bio() {
