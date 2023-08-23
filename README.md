@@ -1,6 +1,6 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <h1  style={{color:"green"}} align="center">< Ales Mazur /></h1>
-<p align="center"><img src="[https://drive.google.com/file/d/1ZNMfOduDhBGRaFzc_hBAyAW5r5itTrMv/view?usp=drive_link](https://drive.google.com/file/d/1ZNMfOduDhBGRaFzc_hBAyAW5r5itTrMv/view?usp=drive_link)" alt="bio" height="auto" width="600"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1ZNMfOduDhBGRaFzc_hBAyAW5r5itTrMv/view?usp=drive_link" alt="bio" height="auto" width="600"></p>
 
 
 
