@@ -12,11 +12,11 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Aliaksandr Mazurkevich LinkedIn Profile" height="30" width="30">
   </a>
 <a href="https://mazurkevich.com">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="mazurkevich.com" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt=" Aliaksandr Mazurkevich oficcial website" height="30" width="30">
   </a>
 
   <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Ales Mazur YouTube Channel" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Aliaksandr Mazurkevich YouTube Channel" height="30" width="30">
   </a>
 </p>
 
