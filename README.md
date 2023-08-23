@@ -1,7 +1,7 @@
 <h1  style={color:'green'} align="center">< Ales Mazur /></h1>
 
 
-export default function Bio() {
+"export default function Bio() {
 	return (
 		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
 		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
@@ -11,8 +11,8 @@ export default function Bio() {
 		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
 		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
 	)
-}
-```
+}"
+
 
 <h2 align="center">You can reach me at :alien:</h2>
 
