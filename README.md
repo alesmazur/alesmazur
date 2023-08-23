@@ -5,7 +5,7 @@
 
 
 
-<h2 align="center">You can reach me at 🙌:</h2>
+<h2 align="center"> 🙌 You can reach me at :</h2>
 
 <p align="center">
   <a href="https://dev.to/anhello">
