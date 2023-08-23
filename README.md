@@ -10,7 +10,6 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 </p>
 
-<! -- <p align="center"><img  style="position:absolute" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="auto" width="700"></p> -->
 
 <p align="center" ><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-wibZPzAsUbbd-iAgnuE8Ad-U_Ow2fdvVtYYRPeIjCvwAVR9DXdachEBxuZgfDJ8UAFTxUHYLzY7cFQmelikk4DjlzeZQ=s1600" alt="bio" height="auto" width="600"></p>
 
@@ -19,7 +18,7 @@
 
 
 
-<h2 align="center"> Contact :</h2>
+
 
 <p align="center">
   <a target="blank" href="https://www.linkedin.com/in/aliesmazur">
