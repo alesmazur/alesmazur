@@ -2,7 +2,7 @@
 <h1  style={{color:"green"}} align="center">< Ales Mazur /></h1>
 <p align="center"><img src="https://drive.google.com/file/d/1ZNMfOduDhBGRaFzc_hBAyAW5r5itTrMv/view" alt="bio" height="auto" width="600"></p>
 
-
+<a href="https://lh3.googleusercontent.com/drive-viewer/AITFw-wibZPzAsUbbd-iAgnuE8Ad-U_Ow2fdvVtYYRPeIjCvwAVR9DXdachEBxuZgfDJ8UAFTxUHYLzY7cFQmelikk4DjlzeZQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-wibZPzAsUbbd-iAgnuE8Ad-U_Ow2fdvVtYYRPeIjCvwAVR9DXdachEBxuZgfDJ8UAFTxUHYLzY7cFQmelikk4DjlzeZQ=s1600" /> </a>
 
 
 <h2 align="center">You can reach me at 🙌:</h2>
