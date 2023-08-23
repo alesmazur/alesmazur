@@ -9,14 +9,14 @@
 <h2 align="center"> 🙌 You can reach me at :</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aliesmazur">
+  <a target="blank" href="https://www.linkedin.com/in/aliesmazur">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Aliaksandr Mazurkevich LinkedIn Profile" height="30" width="30">
   </a>
-<a href="https://mazurkevich.com">
+<a  target="blank" href="https://mazurkevich.com">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt=" Aliaksandr Mazurkevich oficcial website" height="30" width="30">
   </a>
 
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
+  <a target="blank" href="https://www.youtube.com/channel/alesmazur7640">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Aliaksandr Mazurkevich YouTube Channel" height="30" width="30">
   </a>
 </p>
