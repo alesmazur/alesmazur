@@ -1,7 +1,7 @@
 <p align="center"><img  style="position:absolute" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="auto" width="700"></p>
 <h1  style="color:blue" align="center">< Ales Mazur /></h1>
 <p align="center" ><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-wibZPzAsUbbd-iAgnuE8Ad-U_Ow2fdvVtYYRPeIjCvwAVR9DXdachEBxuZgfDJ8UAFTxUHYLzY7cFQmelikk4DjlzeZQ=s1600" alt="bio" height="auto" width="600"></p>
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/yAGIvCiwPJn5C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-yAGIvCiwPJn5C">via GIPHY</a></p>
+
 
 
 
