@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center" ><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-wibZPzAsUbbd-iAgnuE8Ad-U_Ow2fdvVtYYRPeIjCvwAVR9DXdachEBxuZgfDJ8UAFTxUHYLzY7cFQmelikk4DjlzeZQ=s1600" alt="bio" height="auto" width="600"></p>
+<p align="center" ><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-yuKL-M8uiq6UuLzNejjeb8DIe-5okwsvqZP9fZbX4sPJAuSeFdZduU8_bIoHF5FwNkaX08HBthdUVf9YmYfgw3Kh5yjg=s1600" alt="bio" height="auto" width="600"></p>
 
 
 
