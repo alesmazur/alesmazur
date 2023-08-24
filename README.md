@@ -10,19 +10,6 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="https://komarev.com/ghpvc/?username=alesmazur&label=Profile%20views&color=0e75b6&style=flat" alt="alesmazur" /> 
 </p>
-
-
-<p align="center" ><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-yuKL-M8uiq6UuLzNejjeb8DIe-5okwsvqZP9fZbX4sPJAuSeFdZduU8_bIoHF5FwNkaX08HBthdUVf9YmYfgw3Kh5yjg=s1600" alt="bio" height="auto" width="600"></p>
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <a target="blank" href="https://www.linkedin.com/in/aliesmazur">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Aliaksandr Mazurkevich LinkedIn Profile" height="30" width="30">
@@ -36,18 +23,9 @@
   </a>
 </p>
 
+<p align="left" ><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-yuKL-M8uiq6UuLzNejjeb8DIe-5okwsvqZP9fZbX4sPJAuSeFdZduU8_bIoHF5FwNkaX08HBthdUVf9YmYfgw3Kh5yjg=s1600" alt="bio" height="auto" width="600"></p>
 
-
-
-
-
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alesmazur&show_icons=true&locale=en&layout=compact" alt="alesmazur" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alesmazur&show_icons=true&locale=en&layout=compact" alt="alesmazur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alesmazur&show_icons=true&locale=en" alt="alesmazur" /></p>
 
