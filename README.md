@@ -16,10 +16,10 @@ export default function Bio(){
 return(
 <React.Fragment>
       <header><h1>Short Bio.</h1></header>
-      <details><summary> 🔭 currently working on:</summary>
+      <details><summary> 🔭 Currently working on:</summary>
       <p>As independet web developer</p>
       </details>
-      <details><summary> 👨‍💻 my main stack is:</summary>
+      <details><summary> 👨‍💻 My main stack is:</summary>
       <ol>
         <li>React</li>
         <li>Redux</li>
