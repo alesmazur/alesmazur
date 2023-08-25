@@ -10,6 +10,35 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="https://komarev.com/ghpvc/?username=alesmazur&label=Profile%20views&color=0e75b6&style=flat" alt="alesmazur" /> 
 </p>
+
+```javascript
+export default function Bio(){
+return(
+<React.Fragment>
+      <header><h1>Short Bio.</h1></header>
+      <details><summary> 🔭 currently working on:</summary>
+      <p>As independet web developer</p>
+      </details>
+      <details><summary> 🌱 my main stack is:</summary>
+      <ol>
+        <li>React</li>
+        <li>Redux</li>
+        <li>TypeScript</li>
+      </ol>
+      </details>
+      <details><summary> 📫 How to reach me:</summary>
+      <p><a href="mailto:alesmazur@mail.com">my email</a></p>
+      </details>
+    </React.Fragment>
+
+
+)
+
+}
+```
+
+
+
 <p align="center">
   <a target="blank" href="https://www.linkedin.com/in/aliesmazur">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Aliaksandr Mazurkevich LinkedIn Profile" height="30" width="30">
