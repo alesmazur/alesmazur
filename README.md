@@ -30,8 +30,8 @@ return(
       <p><a href="mailto:mazur.react@gmail.com">just mail me</a></p>
       </details>
     </React.Fragment>
-)
-}
+     )
+   }
 ```
 
 
